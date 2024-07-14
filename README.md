@@ -1,0 +1,1 @@
+The AI kitchen is a robust web application built on Django, designed to provide users with a comprehensive platform for discovering, managing, and sharing recipes. It combines intuitive user interfaces with powerful backend functionalities to streamline the entire recipe management process.
